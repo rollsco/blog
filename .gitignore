@@ -1,0 +1,9 @@
+
+# Alternative configurations
+config.toml.*
+
+# HUGO generated resources
+_gen
+
+# img assets
+static/images

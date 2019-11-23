@@ -1,9 +1,16 @@
-
 # Alternative configurations
-config.toml.*
+config-*
 
 # HUGO generated resources
 _gen
 
 # img assets
+uncompressed
 static/images
+
+# Node
+node_modules
+
+# Firebase
+.firebase
+public

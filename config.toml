@@ -1,4 +1,5 @@
 ######################## default configuration ####################
+# baseURL = "https://rolls-co.web.app"
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
 title = "Rolls.co"

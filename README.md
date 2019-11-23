@@ -6,9 +6,11 @@
 
 # Installation
 - Clone repository
+- Run `npm i`
 
 # Development environment
+- `npm run compress-images`
 - `hugo server -D`
 
 # Production environment
-- Firebase
+- `hugo && firebase deploy`

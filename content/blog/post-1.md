@@ -1,37 +1,45 @@
 ---
-title: "¿Cómo usar una App sin instalarla? Acá te explicamos"
-date: 2019-10-23T00:00:00-05:00
+title: "¡Lanzamos nuestra App!"
+author: "Sam"
+date: 2019-11-21T00:00:00-05:00
+publishDate: 2019-11-21T00:00:00-05:00
 draft: false
-
-# post thumb
-image: "images/featured-post/post-1.jpg"
-
 # meta description
-description: "this is meta description"
+description: "¡Lanzamos nuestra App!"
 
 # taxonomies
 categories: 
-  - "Tecnología"
+  - "Anuncios"
 tags:
   - "App"
-  - "Móvil"
 
 # post type "featured" | "post"
 type: "featured"
+
+# post thumb
+image: "images/food/bowls.jpg"
 ---
 
-Cuando creamos [rollsco.co](https://rollsco.co), sabíamos que era más fácil usar plataformas como Rappi o Domicilios.com. Y estamos en ellas. Pero queríamos control sobre promociones, sorteos y combos para ofrecer. 
+Amiguis de Facebook estoy demasiado feliz pq esta semana es nuestro lanzamiento de la App web de Rolls 😳🙊
 
-Para diseñar una App propia sencilla y fácil de usar recurrimos al mejor recurso: miles de seguidoras y seguidores que disfrutan de nuestro Sushi <i class="ti-face-smile mr-1 text-primary"></i>. 
+Después de soñarla y trabajar muuuucho esto ya es una realidad, y para mi es la página mas increíble del mundo 🙊🍣
 
-Entre muchas ideas y sugerencias, recibimos un mensaje claro: nadie quiere instalar otra App en su celular <i class="ti-mobile mr-1 text-primary"></i>. Inmediatamente decidimos crear una App progresiva. 
+Estamos estrenándola y para celebrar hasta el 1 de diciembre pusimos precios especiales en toda la carta, si hacen los pedidos por la App 🎉
 
-##### Nativa Vs Progresiva. ¿Cuál es mejor?
+### Se ingresa en este link: [Rollsco.co](https://rollsco.co)
 
-Una aplicación nativa tiene mayor acceso a recursos y sensores del teléfono. Mayor velocidad. Una App progresiva tiene algunas limitaciones, porque funciona desde el navegador de Internet. Pero sigue siendo poderosa. ¡Y lo mejor es que no es necesario instalarla!. No ocupa memoria <i class="ti-harddrive mr-1 text-primary"></i>. 
+De verdad que nos esforzamos por hacerla lo más bonita posible, y sobre todo lo más fácil de usar posible! Así que se puede pedir lo que quieran 
 
-Para simplificar todavía más, decidimos pedir solo los datos necesarios para hacer un pedido, sin pedir registro, sin pedir usuario o clave de acceso.
+### Sin registros ni descargas 🤓
 
-##### ¿Cómo se usa una App progresiva?
+Muchas gracias a mi desarrollador y socio **Juan Martínez** 🙏 es el más tezo del mundo 💪✅
 
-Es fácil: sólo hay que seguir un link como [rollsco.co](https://rollsco.co). Si está bien diseñada cargará rápidamente aun con conexiones a Internet lentas, se verá bien será intuitiva, y seguirá estándares como los especificados en [Material Design Gidelines](https://material.io/design/). Si te interesa saber más: ¡escríbenos!.
+![image](../../images/app/bowls-250.png)
+
+<hr>
+
+![image](../../images/app/drinks-250.png)
+
+<hr>
+
+![image](../../images/app/description-250.png)

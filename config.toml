@@ -1,0 +1,126 @@
+######################## default configuration ####################
+# baseURL = "https://rolls-co.web.app"
+baseURL = "https://examplesite.com"
+languageCode = "en-us"
+title = "Rolls.co"
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 6
+disqusShortname = ""
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+  
+############################## navigation ###############################
+[menu]
+  
+  [[menu.main]]
+  name = "Contacto"
+  URL = "contact"
+  weight = 2
+  
+  # main menu
+  [[menu.main]]
+  name = "Nosotros"
+  URL = "about/about"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 4
+
+  # footer menu
+  [[menu.footer]]
+  name = "Nosotros"
+  URL = "about/about"
+  weight = 2
+  
+  [[menu.footer]]
+  name = "Blog"
+  URL = "blog"
+  weight = 3
+  
+  [[menu.footer]]
+  name = "Contacto"
+  URL = "contact"
+  weight = 4
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Principal"
+# Meta data
+description = "Rolls, Sushi, Delivery, Domicilio, Bucaramanga, Colombia"
+author = "Rolls"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+mobile = "+57 317 4122919"
+email = "sushirolls@gmail.com"
+location = "Bucaramanga, Colombia"
+url = "https://www.rollsco.co"
+# copyright
+copyright = "Rolls.co | 2020"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = true
+
+############################ news letter ########################
+[params.newsletter]
+enable = true
+title = "Prueba nuestros deliciosos Rolls"
+content = "Pide Rolls, Pokes, Blows y más en [rollsco.co](https://www.rollsco.co) nuestra App sin descargas, instalación ni registro, en toda Bucaramanga y el área metropolitana. ¡Y suscríbete a nuestro Blog!"
+
+############################# social site ########################
+[[params.social]]
+title = "Instagram"
+icon = "ti-instagram" # https://themify.me/themify-icons
+link = "https://www.instagram.com/rolls.co/"
+
+[[params.social]]
+title = "Facebook"
+icon = "ti-facebook" # https://themify.me/themify-icons
+link = "https://www.facebook.com/SushiRolls.co/"
+
+[[params.social]]
+title = "App"
+icon = "ti-shopping-cart" # https://themify.me/themify-icons
+link = "https://www.rollsco.co/"

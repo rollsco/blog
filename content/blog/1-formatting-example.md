@@ -2,21 +2,22 @@
 title: "How To Use Checklists To Improve Your UX"
 date: 2019-10-29T10:07:47+06:00
 publishDate: 2100-01-01T00:00:00-05:00
+author: "Rolls"
 draft: true
 
 # post thumb
-image: "images/featured-post/post-2.jpg"
+image: "images/post/post-1.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "HTML & CSS"
+  - "Go Language"
 tags:
   - "Photos"
   - "Game"
-  - "React"
+  - "HTML"
   - "Python"
   - "New"
 
@@ -92,7 +93,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 * List item
 * List item
 * List item
-
 <hr>
 
 ##### Code and Syntax Highlighting

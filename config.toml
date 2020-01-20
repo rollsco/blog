@@ -1,6 +1,5 @@
 ######################## default configuration ####################
-# baseURL = "https://rolls-co.web.app"
-baseURL = "https://examplesite.com"
+baseURL = "https://sushirolls.co/"
 languageCode = "en-us"
 title = "Rolls.co"
 theme = "liva-hugo"

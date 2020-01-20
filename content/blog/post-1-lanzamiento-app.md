@@ -1,9 +1,7 @@
 ---
 title: "¡Lanzamos nuestra App!"
 author: "Sam"
-date: 2019-11-21T00:00:00-05:00
-publishDate: 2019-11-21T00:00:00-05:00
-draft: false
+date: 2019-11-29T00:00:00-05:00
 # meta description
 description: "¡Lanzamos nuestra App!"
 
@@ -14,17 +12,17 @@ tags:
   - "App"
 
 # post type "featured" | "post"
-type: "featured"
+type: "post"
 
 # post thumb
-image: "images/food/bowls.jpg"
+image: "images/food/rolls-bowls.jpg"
 ---
 
-Amiguis de Facebook estoy demasiado feliz pq esta semana es nuestro lanzamiento de la App web de Rolls 😳🙊
+Estoy demasiado feliz pq hicimos el lanzamiento de la App web de Rolls 😳🙊
 
 Después de soñarla y trabajar muuuucho esto ya es una realidad, y para mi es la página mas increíble del mundo 🙊🍣
 
-Estamos estrenándola y para celebrar hasta el 1 de diciembre pusimos precios especiales en toda la carta, si hacen los pedidos por la App 🎉
+Para celebrar hasta el 1 de diciembre pusimos precios especiales en toda la carta, si hacen los pedidos por la App 🎉
 
 ### Se ingresa en este link: [Rollsco.co](https://rollsco.co)
 
